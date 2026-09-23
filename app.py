@@ -263,3 +263,20 @@ st.divider()
 st.markdown("### Sobre este laboratorio")
 st.markdown("**Explorando organizaciones rectangulares** forma parte de **LIM (Laboratorio de Ideas Matemáticas)**.")
 st.markdown("**Versión:** 0.3 (prototipo)")
+# ---------------------------------------------------------
+# CONTACTO
+# ---------------------------------------------------------
+
+st.markdown("---")
+
+st.markdown(
+    """
+    ### ¿Usaste este laboratorio?
+
+    Si sos docente y estás pensando utilizar este laboratorio, o ya lo probaste
+    con estudiantes, nos interesa conocer tu experiencia.
+
+    📩 **Contacto:**  
+    [fjbifano@ccpems.exactas.uba.ar](mailto:fjbifano@ccpems.exactas.uba.ar)
+    """
+)
